@@ -10,7 +10,7 @@ A **basic implementation** of client-server communication using TCP sockets in P
 
 ## 📝 Project Description
 
-This project helps you grasp the fundamentals of:
+This project helps you grasp the fundamentals of :
 
 1. **TCP Socket Communication**: Establishing a connection between client and server.
 2. **Client-Server Architecture**: Understanding the basic structure and interaction.
