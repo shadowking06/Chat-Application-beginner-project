@@ -2,7 +2,7 @@
   <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python Logo" width="400"/>
 </p>
 
-## (PLEASE READ `Instruction.docx` for more help!)
+## ( PLEASE READ `Instruction.docx` for more help ! ) 
 
 # Chat Application Based On Client-Server Architecture with TCP Sockets in Python 🌐💻
 
