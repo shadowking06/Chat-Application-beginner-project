@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Client-Server+Architecture" alt="Client-Server Architecture" width="600"/>
+  <img src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png" alt="Python Logo" width="400"/>
 </p>
 
 ## (PLEASE READ `Instruction.docx` for more help!)
@@ -49,21 +49,7 @@ This project helps you grasp the fundamentals of:
     ```bash
     python client.py
     ```
-
-## 📸 Screenshots
-
-### Server Running
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Server+Running" alt="Server Running" width="600"/>
-</p>
-
-### Client Interface
-
-<p align="center">
-  <img src="https://via.placeholder.com/800x400?text=Client+Interface" alt="Client Interface" width="600"/>
-</p>
-
+    
 ## 🔍 What I Learned
 
 - Importance of **socket programming** in network communication.
