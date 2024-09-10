@@ -62,6 +62,8 @@ This project helps you grasp the fundamentals of :
 - Develop a more **robust client-server application** with **error handling** and **security features**.
 - Apply this knowledge to real-world **projects and applications**.
 
+  ## 🔗 Connect with Me
 
-Thank you for checking out my project! 🌟
+GitHub : [shadowking06](https://github.com/shadowking06)
 
+LinkedIn : [Ujjwal Pandey](https://www.linkedin.com/in/ujjwal-pandey-324769166/)
